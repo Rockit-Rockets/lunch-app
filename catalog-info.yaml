@@ -12,6 +12,7 @@ metadata:
     jenkins.io/github-folder: Rockit-Rockets/lunch-app
     apiVersion: backstage.io/v1alpha1
     vault.io/secrets-path: 'rockit'
+    azure.com/tag-selector: rockit-location/mars
   links:
     - url: https://mars.com
       title: Rockit Lunch App
