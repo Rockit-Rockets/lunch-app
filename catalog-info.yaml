@@ -4,7 +4,6 @@ metadata:
   name: lunch-app
   description: Lunch App
   annotations:
-    dev.azure.com/project-repo: Rockit-Rockets/book-app
     github.com/project-slug: Rockit-Rockets/lunch-app
     backstage.io/techdocs-ref: dir:.
     rootly.com/app-name: lunch-app
