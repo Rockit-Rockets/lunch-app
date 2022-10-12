@@ -26,6 +26,6 @@ spec:
     - component:default/userdb
     - component:default/flight-info
   partOf:
-    - component:default/booking-app
+    - component:default/book-app
   consumesApis:
     - flight-info
